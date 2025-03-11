@@ -10,7 +10,7 @@ By leveraging Artificial Intelligence in C# 14, developers can generate, refacto
 
 ### Article Details  
 
-- **Title:**Smarter Code with Built-in AI Support in C# 14
+- **Title:** Smarter Code with Built-in AI Support in C# 14
 - **Author:** Ziggy Rafiq  
 - **Link:** [Read the full article](https://www.csharp.com/article/smarter-code-with-built-in-ai-support-in-c-sharp-14/)  
 
